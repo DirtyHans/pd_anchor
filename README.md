@@ -1,3 +1,10 @@
+All credit goes to the original author of the script I just added qb-core framework and qb-target.
+Poncho’s Development | Boat Anchor v2.1.0
+This script allows you to anchor your boat. The configuration file includes everything you need allowing you to customize whatever you want and to change the notification type to chat messages, normal notifications with custom icons or using ox_lib notify.
+
+https://forum.cfx.re/t/standalone-free-boat-anchor/5264861
+
+
 # QB-Core Anchor Script with Dynamic QB-Target Support
 
 ## Features
